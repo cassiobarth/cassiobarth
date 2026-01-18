@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Cássio</h1>
-<h3 align="center">A Consultant Data Engineer from Brasil</h3>
+<h1 align="center">Hi, I'm Cássio,</h1>
+<h3 align="center">a Consultant Data Engineer from Brasil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cassiobarth" alt="cassiobarth" /></a> </p>
-
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+</br>
 <a href="https://linkedin.com/in/cassiobarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cassiobarth" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/cassiobarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cassiobarth" height="30" width="40" /></a>
 <a href="https://kaggle.com/cassiobarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cassiobarth" height="30" width="40" /></a>
